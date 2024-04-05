@@ -1,0 +1,23 @@
+class AppConstants {
+  static String emptyEmailWarning = "Please enter your email address.",
+      emptyPasswordWarning = "Please enter a password",
+      uploadImageText = "Upload a Image",
+      usernameHintText = "Username",
+      passwordHintText = "Password",
+      uploadButtonText = "Upload",
+      loginButtonText = "Login",
+      viewButtonText = "View",
+      assistanceMessageText = "For Assistance & Login Details Contact:",
+      languageSupportTextOne = "English, Kannada & Telugu : ",
+      languageSupportTextTwo = "English, Kannada & Hindi  : ",
+      contactSupportOne = "7406333800",
+      contactSupportTwo = "9071386515",
+      companyName = "Codeland Infosolutions Pvt Ltd.",
+      copyRightYear = "2023",
+      version = "v1.7",
+      biomedicalKioskText = "Biomedical Kiosk",
+      hceText = "for HCE's",
+      codeLandLoginScreenImagePath = "lib/resources/images/login_page_image.png",
+      splashScreenImagePath = "lib/resources/images/splash_screen_image.png",
+      noImagePath = 'lib/resources/images/no_image.png';
+}
